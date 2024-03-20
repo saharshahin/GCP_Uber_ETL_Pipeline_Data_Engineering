@@ -6,10 +6,14 @@ The objective of this project is to analyze Uber data using a range of tools and
 ![architecture](https://github.com/saharshahin/GCP_Uber_ETL_Pipeline_Data_Engineering/assets/134793881/d27c5464-f42e-4c88-8dbc-bdacd37fb716)
 
 ## Technology
-Programming Language - Python
+- Programming Language - Python
 
 ### Google Cloud Platform
 - Google Storage
 - Compute Instance
 - BigQuery
 - Looker Studio
+
+## Data Modeling - Lucid
+![Uber Data Model](https://github.com/saharshahin/GCP_Uber_ETL_Pipeline_Data_Engineering/assets/134793881/2d7dc483-8750-4c13-8bbf-025ea21b9cdd)
+
