@@ -8,9 +8,8 @@ The objective of this project is to analyze Uber data using a range of tools and
 ## Technology
 Programming Language - Python
 
-#### Google Cloud Platform
-
-Google Storage
-Compute Instance
-BigQuery
-Looker Studio
+### Google Cloud Platform
+- Google Storage
+- Compute Instance
+- BigQuery
+- Looker Studio
